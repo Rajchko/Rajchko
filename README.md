@@ -22,7 +22,7 @@ Hit me up in 4 months, don't waste your time just yet.
 
 - Running different kinds of Linux distros 🐧
 - Researching obscure documentation and technologies 🔧
-- Writing basic scripts in bash ⌨️
+- Writing scripts in bash ⌨️
 
 
 ## $ ^C
