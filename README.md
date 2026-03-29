@@ -1,7 +1,7 @@
 ## $whoami
 ## HI! 👋
 
-I am Nemanja. I am a first year student at University of Niš studying electrical engineering.
+I am Nemanja. I am a student at University of Niš studying electrical engineering.
 
 As things stand, I don't know much of anything, but I am working on it.
 I am aspiring to be a sysadmin and/or network engineer.
