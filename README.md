@@ -1,5 +1,5 @@
 ## $whoami
-## HI 🗣️
+## HI! 👋
 
 I am Nemanja. I am a first year student at University of Niš studying electrical engineering.
 
@@ -9,7 +9,7 @@ I am aspiring to be a sysadmin and/or network engineer.
 Looking for a Junior employee?
 Hit me up in 4 months, don't waste your time just yet.
 
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------
 
 ## Projects I will be working on for the forseeable future:
 
