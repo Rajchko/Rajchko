@@ -11,11 +11,18 @@ Hit me up in 4 months, don't waste your time just yet.
 
 ---------------------------------------------------------
 
-## Projects I will be working on for the forseeable future:
+## Projects I will be working on for the foreseeable future:
 
 - An over-engineered internet radio station with two drunk wizards as hosts 🧙‍♂️
 - An over-engineered game hosting server 👾
 - An over-engineered tracking service in case I am abducted by aliens or political opponents 🛸
+
+
+## Things I kinda know:
+
+- Running different kinds of Linux distros 🐧
+- Researching obscure documentation and technologies 🔧
+- Writing basic scripts in bash ⌨️
 
 
 ## $ ^C
