@@ -1,16 +1,21 @@
-## Hi there 👋
+## $whoami
+## HI 🗣️
 
-<!--
-**Rajchko/Rajchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nemanja. I am a first year student at University of Niš studying electrical engineering.
 
-Here are some ideas to get you started:
+As things stand, I don't know much of anything, but I am working on it.
+I am aspiring to be a sysadmin and/or network engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for a Junior employee?
+Hit me up in 4 months, don't waste your time just yet.
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+## Projects I will be working on for the forseeable future:
+
+- An over-engineered internet radio station with two drunk wizards as hosts 🧙‍♂️
+- An over-engineered game hosting server 👾
+- An over-engineered tracking service in case I am abducted by aliens or political opponents 🛸
+
+
+## $ ^C
